@@ -68,7 +68,7 @@ const Weather = () => {
   };
 
   useEffect(() => {
-    search("London");
+    search("Ondangwa");
   }, []);
 
   return (
